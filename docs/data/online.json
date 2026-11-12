@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12 00:27:21",
+  "timestamp": "2026-11-12 14:59:10",
   "total": 62,
   "data": [
     {
@@ -24,7 +24,7 @@
       "health": {
         "url": "https://jipinvip1.com",
         "status_code": 200,
-        "response_time_ms": 440.75,
+        "response_time_ms": 476.53,
         "is_alive": true,
         "error": null
       }
@@ -50,7 +50,7 @@
       "health": {
         "url": "https://bfzyapi.com",
         "status_code": 200,
-        "response_time_ms": 535.12,
+        "response_time_ms": 518.25,
         "is_alive": true,
         "error": null
       }
@@ -76,7 +76,7 @@
       "health": {
         "url": "https://360zy.com",
         "status_code": 200,
-        "response_time_ms": 1582.41,
+        "response_time_ms": 923.15,
         "is_alive": true,
         "error": null
       }
@@ -102,7 +102,7 @@
       "health": {
         "url": "https://haohuazy.com",
         "status_code": 200,
-        "response_time_ms": 635.85,
+        "response_time_ms": 609.02,
         "is_alive": true,
         "error": null
       }
@@ -128,7 +128,7 @@
       "health": {
         "url": "https://api.wujinapi.me",
         "status_code": 403,
-        "response_time_ms": 92.35,
+        "response_time_ms": 336.52,
         "is_alive": true,
         "error": "HTTP 403 (在线但受限)"
       }
@@ -154,7 +154,7 @@
       "health": {
         "url": "http://zuidazy.me",
         "status_code": 200,
-        "response_time_ms": 162.95,
+        "response_time_ms": 852.44,
         "is_alive": true,
         "error": null
       }
@@ -180,7 +180,7 @@
       "health": {
         "url": "https://api.niuniuzy.me",
         "status_code": 200,
-        "response_time_ms": 370.03,
+        "response_time_ms": 518.75,
         "is_alive": true,
         "error": null
       }
@@ -206,9 +206,35 @@
       "health": {
         "url": "http://hongniuzy2.com",
         "status_code": 200,
-        "response_time_ms": 96.27,
+        "response_time_ms": 111.13,
         "is_alive": true,
         "error": null
+      }
+    },
+    {
+      "name": "魔都资源站",
+      "link": "https://www.mdzyapi.com",
+      "source_url": "https://www.ziyuanzu.com/source/modouziyuanzhan",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "description": "魔都资源采集站，资源丰富稳定",
+      "status": "down",
+      "uptime": "50%",
+      "resource_count": 87456,
+      "rating": 4.5,
+      "tags": [
+        "资源丰富",
+        "稳定",
+        "采集站"
+      ],
+      "speed": "slow",
+      "responseTime": 15001,
+      "todayUpdates": 17,
+      "health": {
+        "url": "https://www.mdzyapi.com",
+        "status_code": 200,
+        "response_time_ms": 559.38,
+        "is_alive": true,
+        "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
       }
     },
     {
@@ -232,7 +258,7 @@
       "health": {
         "url": "https://naixxzy.com",
         "status_code": 200,
-        "response_time_ms": 527.74,
+        "response_time_ms": 471.2,
         "is_alive": true,
         "error": null
       }
@@ -258,7 +284,7 @@
       "health": {
         "url": "https://apilj.com",
         "status_code": 200,
-        "response_time_ms": 813.26,
+        "response_time_ms": 772.84,
         "is_alive": true,
         "error": null
       }
@@ -284,7 +310,7 @@
       "health": {
         "url": "https://cj.yayazy.net",
         "status_code": 200,
-        "response_time_ms": 188.59,
+        "response_time_ms": 261.26,
         "is_alive": true,
         "error": null
       }
@@ -310,7 +336,7 @@
       "health": {
         "url": "https://tyyszyapi.com",
         "status_code": 200,
-        "response_time_ms": 450.05,
+        "response_time_ms": 415.93,
         "is_alive": true,
         "error": null
       }
@@ -336,7 +362,7 @@
       "health": {
         "url": "https://jszyapi.com",
         "status_code": 200,
-        "response_time_ms": 287.95,
+        "response_time_ms": 327.25,
         "is_alive": true,
         "error": null
       }
@@ -361,10 +387,10 @@
       "todayUpdates": 15,
       "health": {
         "url": "https://iqiyizyapi.com",
-        "status_code": 504,
-        "response_time_ms": 11156.86,
+        "status_code": 200,
+        "response_time_ms": 746.89,
         "is_alive": true,
-        "error": "在线（ziyuanzu 确认，本地检测: 504）"
+        "error": null
       }
     },
     {
@@ -388,7 +414,7 @@
       "health": {
         "url": "https://api.maoyanapi.top",
         "status_code": 200,
-        "response_time_ms": 651.45,
+        "response_time_ms": 792.51,
         "is_alive": true,
         "error": null
       }
@@ -414,7 +440,7 @@
       "health": {
         "url": "https://suonizy.net",
         "status_code": 200,
-        "response_time_ms": 533.56,
+        "response_time_ms": 416.21,
         "is_alive": true,
         "error": null
       }
@@ -440,7 +466,7 @@
       "health": {
         "url": "https://huyazy.net",
         "status_code": 200,
-        "response_time_ms": 232.2,
+        "response_time_ms": 207.35,
         "is_alive": true,
         "error": null
       }
@@ -466,7 +492,7 @@
       "health": {
         "url": "https://subocj.com",
         "status_code": 403,
-        "response_time_ms": 141.8,
+        "response_time_ms": 134.44,
         "is_alive": true,
         "error": "HTTP 403 (在线但受限)"
       }
@@ -492,7 +518,7 @@
       "health": {
         "url": "https://jyzyapi.com",
         "status_code": 403,
-        "response_time_ms": 113.48,
+        "response_time_ms": 100.45,
         "is_alive": true,
         "error": "HTTP 403 (在线但受限)"
       }
@@ -518,7 +544,7 @@
       "health": {
         "url": "https://ffzy5.tv",
         "status_code": 200,
-        "response_time_ms": 634.66,
+        "response_time_ms": 1090.21,
         "is_alive": true,
         "error": null
       }
@@ -544,7 +570,7 @@
       "health": {
         "url": "https://p2100.net",
         "status_code": 403,
-        "response_time_ms": 121.3,
+        "response_time_ms": 106.73,
         "is_alive": true,
         "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
       }
@@ -570,7 +596,7 @@
       "health": {
         "url": "https://jkunzyapi.com",
         "status_code": 200,
-        "response_time_ms": 467.5,
+        "response_time_ms": 454.54,
         "is_alive": true,
         "error": null
       }
@@ -596,7 +622,7 @@
       "health": {
         "url": "https://apidanaizi.com",
         "status_code": 200,
-        "response_time_ms": 222.72,
+        "response_time_ms": 227.28,
         "is_alive": true,
         "error": null
       }
@@ -621,10 +647,10 @@
       "todayUpdates": 20,
       "health": {
         "url": "https://m3u8.apiyhzy.com",
-        "status_code": 500,
-        "response_time_ms": 358.03,
+        "status_code": null,
+        "response_time_ms": null,
         "is_alive": true,
-        "error": "在线（ziyuanzu 确认，本地检测: 500）"
+        "error": "在线（ziyuanzu 确认，本地检测: Timeout）"
       }
     },
     {
@@ -648,7 +674,7 @@
       "health": {
         "url": "https://www.jingpinx.com",
         "status_code": 200,
-        "response_time_ms": 1012.88,
+        "response_time_ms": 1093.44,
         "is_alive": true,
         "error": null
       }
@@ -700,7 +726,7 @@
       "health": {
         "url": "https://shayuapi.com",
         "status_code": 200,
-        "response_time_ms": 801.77,
+        "response_time_ms": 989.07,
         "is_alive": true,
         "error": null
       }
@@ -726,7 +752,7 @@
       "health": {
         "url": "https://heiliaozyapi.com",
         "status_code": 500,
-        "response_time_ms": 724.6,
+        "response_time_ms": 657.41,
         "is_alive": true,
         "error": "在线（ziyuanzu 确认，本地检测: 500）"
       }
@@ -752,7 +778,7 @@
       "health": {
         "url": "https://api.guangsuapi.com",
         "status_code": 200,
-        "response_time_ms": 711.76,
+        "response_time_ms": 223.03,
         "is_alive": true,
         "error": null
       }
@@ -777,10 +803,10 @@
       "todayUpdates": 20,
       "health": {
         "url": "https://mtzy5.com",
-        "status_code": null,
-        "response_time_ms": null,
+        "status_code": 200,
+        "response_time_ms": 1334.86,
         "is_alive": true,
-        "error": "在线（ziyuanzu 确认，本地检测: Connection Error）"
+        "error": null
       }
     },
     {
@@ -830,7 +856,7 @@
       "health": {
         "url": "https://155api.com",
         "status_code": 200,
-        "response_time_ms": 152.87,
+        "response_time_ms": 379.14,
         "is_alive": true,
         "error": null
       }
@@ -856,35 +882,9 @@
       "health": {
         "url": "https://slapibf.com",
         "status_code": 200,
-        "response_time_ms": 303.17,
+        "response_time_ms": 349.58,
         "is_alive": true,
         "error": null
-      }
-    },
-    {
-      "name": "百花资源站",
-      "link": "https://bhziyuan.com",
-      "source_url": "https://www.ziyuanzu.com/source/baihuaziyuanzhan",
-      "api": "https://bhziyuan.com/api.php/provide/vod",
-      "description": "百花资源采集站，提供影视资源API接口",
-      "status": "down",
-      "uptime": "-",
-      "resource_count": 11523,
-      "rating": 4.3,
-      "tags": [
-        "影视资源",
-        "热门",
-        "极速"
-      ],
-      "speed": "medium",
-      "responseTime": 540,
-      "todayUpdates": 0,
-      "health": {
-        "url": "https://bhziyuan.com",
-        "status_code": 200,
-        "response_time_ms": 710.61,
-        "is_alive": true,
-        "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
       }
     },
     {
@@ -908,7 +908,7 @@
       "health": {
         "url": "https://api.apibdzy.com",
         "status_code": 200,
-        "response_time_ms": 442.91,
+        "response_time_ms": 402.2,
         "is_alive": true,
         "error": null
       }
@@ -934,7 +934,7 @@
       "health": {
         "url": "https://lbapi9.com",
         "status_code": 200,
-        "response_time_ms": 371.93,
+        "response_time_ms": 417.57,
         "is_alive": true,
         "error": null
       }
@@ -960,7 +960,7 @@
       "health": {
         "url": "https://aosikazy.com",
         "status_code": 200,
-        "response_time_ms": 1006.2,
+        "response_time_ms": 815.58,
         "is_alive": true,
         "error": null
       }
@@ -986,7 +986,7 @@
       "health": {
         "url": "https://thzy1.me",
         "status_code": 200,
-        "response_time_ms": 1049.63,
+        "response_time_ms": 1258.1,
         "is_alive": true,
         "error": null
       }
@@ -1012,7 +1012,7 @@
       "health": {
         "url": "https://apiyutu.com",
         "status_code": 200,
-        "response_time_ms": 483.19,
+        "response_time_ms": 521.44,
         "is_alive": true,
         "error": null
       }
@@ -1038,7 +1038,7 @@
       "health": {
         "url": "https://apilsbzy1.com",
         "status_code": 200,
-        "response_time_ms": 505.25,
+        "response_time_ms": 596.13,
         "is_alive": true,
         "error": null
       }
@@ -1064,7 +1064,7 @@
       "health": {
         "url": "https://caiji.semaozy.net",
         "status_code": 200,
-        "response_time_ms": 250.32,
+        "response_time_ms": 337.01,
         "is_alive": true,
         "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
       }
@@ -1116,7 +1116,7 @@
       "health": {
         "url": "https://91md.me",
         "status_code": 200,
-        "response_time_ms": 308.7,
+        "response_time_ms": 1399.3,
         "is_alive": true,
         "error": null
       }
@@ -1142,7 +1142,7 @@
       "health": {
         "url": "https://hsckzy888.com",
         "status_code": 200,
-        "response_time_ms": 197.39,
+        "response_time_ms": 270.59,
         "is_alive": true,
         "error": null
       }
@@ -1167,7 +1167,7 @@
       "health": {
         "url": "https://lovedan.net",
         "status_code": 200,
-        "response_time_ms": 318.93,
+        "response_time_ms": 688.1,
         "is_alive": true,
         "error": null
       }
@@ -1193,7 +1193,7 @@
       "health": {
         "url": "https://dadiapi.com",
         "status_code": 200,
-        "response_time_ms": 772.68,
+        "response_time_ms": 779.43,
         "is_alive": true,
         "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
       }
@@ -1219,7 +1219,7 @@
       "health": {
         "url": "https://api.xiaojizy.live",
         "status_code": 200,
-        "response_time_ms": 428.91,
+        "response_time_ms": 290.21,
         "is_alive": true,
         "error": null
       }
@@ -1245,7 +1245,7 @@
       "health": {
         "url": "https://xxavs.com",
         "status_code": 200,
-        "response_time_ms": 555.66,
+        "response_time_ms": 355.81,
         "is_alive": true,
         "error": null
       }
@@ -1271,7 +1271,7 @@
       "health": {
         "url": "http://fhapi9.com",
         "status_code": 200,
-        "response_time_ms": 502.71,
+        "response_time_ms": 519.61,
         "is_alive": true,
         "error": null
       }
@@ -1297,7 +1297,7 @@
       "health": {
         "url": "https://api.vnzyz.com",
         "status_code": 200,
-        "response_time_ms": 156.11,
+        "response_time_ms": 204.68,
         "is_alive": true,
         "error": null
       }
@@ -1323,7 +1323,7 @@
       "health": {
         "url": "https://ikunzyapi.com",
         "status_code": 200,
-        "response_time_ms": 381.35,
+        "response_time_ms": 400.84,
         "is_alive": true,
         "error": null
       }
@@ -1349,7 +1349,7 @@
       "health": {
         "url": "https://json.xingba222.com",
         "status_code": 200,
-        "response_time_ms": 581.35,
+        "response_time_ms": 1409.75,
         "is_alive": true,
         "error": null
       }
@@ -1375,7 +1375,7 @@
       "health": {
         "url": "https://api.ddapi.cc",
         "status_code": 403,
-        "response_time_ms": 161.13,
+        "response_time_ms": 170.79,
         "is_alive": true,
         "error": "HTTP 403 (在线但受限)"
       }
@@ -1401,7 +1401,7 @@
       "health": {
         "url": "https://fqzy.me",
         "status_code": 200,
-        "response_time_ms": 1012.24,
+        "response_time_ms": 1255.33,
         "is_alive": true,
         "error": null
       }
@@ -1427,7 +1427,7 @@
       "health": {
         "url": "https://api.ryzy.com",
         "status_code": 200,
-        "response_time_ms": 774.59,
+        "response_time_ms": 905.44,
         "is_alive": true,
         "error": "在线（本地检测恢复，ziyuanzu 仍显示 down）"
       }
@@ -1452,7 +1452,7 @@
       "health": {
         "url": "https://api.souavzyw.net",
         "status_code": 200,
-        "response_time_ms": 921.73,
+        "response_time_ms": 859.24,
         "is_alive": true,
         "error": null
       }
@@ -1477,7 +1477,7 @@
       "health": {
         "url": "https://www.kxgav.com",
         "status_code": 200,
-        "response_time_ms": 240.09,
+        "response_time_ms": 210.08,
         "is_alive": true,
         "error": null
       }
@@ -1502,7 +1502,7 @@
       "health": {
         "url": "https://www.msnii.com",
         "status_code": 200,
-        "response_time_ms": 237.01,
+        "response_time_ms": 194.97,
         "is_alive": true,
         "error": null
       }
@@ -1527,7 +1527,7 @@
       "health": {
         "url": "https://api.douapi.cc",
         "status_code": 403,
-        "response_time_ms": 186.94,
+        "response_time_ms": 216.56,
         "is_alive": true,
         "error": "HTTP 403 (在线但受限)"
       }
@@ -1552,7 +1552,7 @@
       "health": {
         "url": "https://www.pgxdy.com",
         "status_code": 200,
-        "response_time_ms": 135.69,
+        "response_time_ms": 168.4,
         "is_alive": true,
         "error": null
       }
@@ -1577,7 +1577,7 @@
       "health": {
         "url": "https://www.xrbsp.com",
         "status_code": 200,
-        "response_time_ms": 163.51,
+        "response_time_ms": 237.02,
         "is_alive": true,
         "error": null
       }
@@ -1602,7 +1602,7 @@
       "health": {
         "url": "https://www.gdlsp.com",
         "status_code": 200,
-        "response_time_ms": 651.83,
+        "response_time_ms": 188.36,
         "is_alive": true,
         "error": null
       }
